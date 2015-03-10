@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  AddToDoItemViewController.h
 //  ShoppingList
 //
 //  Created by Agnieszka Carroll on 10/03/2015.
@@ -7,9 +7,10 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "ToDoItem.h"
 
-@interface ViewController : UIViewController
+@interface AddToDoItemViewController : UIViewController
 
+@property ToDoItem *toDoItem;
 
 @end
-
