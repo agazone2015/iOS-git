@@ -1,4 +1,4 @@
 # AddingToList
 
 
-Simple app that allows uder to add to To-Do List.
+Simple app that allows user to add to To-Do List.
